@@ -46,7 +46,7 @@ function right(){
 function home(){
     let checkHome = confirm('홈으로 이동하시겠습니까?');
     if(checkHome){
-        location.href = "blog.html"
+        location.href = "index.html"
     }
 }
 
